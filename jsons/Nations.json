@@ -7,8 +7,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Genghis Khan",
 
-        "startIntroPart1": "O great Temuujin, immortal leader of the mighty Mongol Empire! Your name alone was enough to make cities crumble, and the sound of the mighty Mongol cavalry to make your enemies flee! O Great Khan! Once Northern Asia united into a mighty people, producing one of the greatest armies the world has ever known, your skillful mounted archers conquered in only a few years, most of China, Eastern Asia, and even reached the gates of Europe at the West. With cunning diplomacy and brilliant warfare, you swept your enemies one after another, creating the greatest empire ever seen, reducing Roman or Greek conquests to minor achievements.",
-        "startIntroPart2": "Divine Temuujin, battles and conquests run through the veins of the Mongols. Are you ready to shatter the will of your enemies? Will your cavalry ride in the steppes once again and strike as lightning and thunder? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "Testing1",
+        "startIntroPart2": "Testing2",
 
         "declaringWar": "You stand in the way of my armies. Let us solve this like warriors!",
 		"attacked": "No more words. Today, Mongolia charges toward your defeat.",
@@ -20,7 +20,7 @@
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
 		"favoredReligion": "Tengriism",
-		"uniqueName": "Mongol Terror",
+		"uniqueName": "Amazons",
 		"uniques": ["[+100]% Strength <for [All] units>","[+1] Movement <for [All] units>"]
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
